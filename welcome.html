@@ -1,0 +1,68 @@
+<!-- welcome.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome</title>
+  <style>
+    /* Global Styles */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url('https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg');
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+      margin: 0;
+    }
+    /* Welcome Container */
+    .welcome-container {
+      width: 500px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #fff;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    /* Welcome Message */
+    .welcome-message {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    /* Button Container */
+    .button-container {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 20px;
+    }
+    .button-container button {
+      width: 45%;
+      height: 40px;
+      background-color: #4CAF50;
+      color: #fff;
+      padding: 10px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .button-container button:hover {
+      background-color: #3e8e41;
+    }
+  </style>
+</head>
+<body>
+  <div class="welcome-container">
+    <h2 class="welcome-message">Welcome to analysis of your data</h2>
+    <p>Please choose an option from below:</p>
+    <div class="button-container">
+      <button onclick="window.location.href = 'https://app.powerbi.com/groups/me/reports/322605b4-4554-4d89-8f8f-19bf90b2b556/4d042b8403be058bbbee?experience=power-bi'">PowerBI Dashboard</button>
+      <button onclick="window.location.href = 'http://192.168.1.21:8501'">Data Analytics</button>
+    </div>
+  </div>
+</body>
+</html>
