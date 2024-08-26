@@ -47,6 +47,8 @@ Navigate to the Python Model Building directory and run the Python script to bui
 Navigate to the Final File of Project directory and run the Streamlit script to launch the interactive webpage.
 Open the Login and Welcome directory to view the custom login page and welcome page.
 
+#YOU NEED TO SAVE ALL PKL FILES AND OTHER FILES IN SAME FOLDER
+
 
 
 https://github.com/user-attachments/assets/5f52d37b-9d2b-43d2-97c5-11aab706e35c
