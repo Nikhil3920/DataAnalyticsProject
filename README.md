@@ -40,12 +40,17 @@ Mastered SQL, Python, and data visualization tools for data-driven decision-maki
 Learned how to make strategic decisions based on data analysis using different tools
 Developed skills in building machine learning models and creating interactive visualizations
 
-
 Getting Started
 To get started with this project, simply clone the repository and follow the instructions below:
 
 Navigate to the Python Model Building directory and run the Python script to build the machine learning model.
 Navigate to the Final File of Project directory and run the Streamlit script to launch the interactive webpage.
 Open the Login and Welcome directory to view the custom login page and welcome page.
-License
+
+
+
+https://github.com/user-attachments/assets/5f52d37b-9d2b-43d2-97c5-11aab706e35c
+
+
+
 
